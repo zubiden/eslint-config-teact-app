@@ -46,5 +46,7 @@ module.exports = {
   rules: {
     'react/jsx-uses-vars': 'warn',
     'react/jsx-uses-react': 'warn',
+    // Teact feature
+    "react/style-prop-object": "off",
   },
 };

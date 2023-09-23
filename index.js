@@ -289,8 +289,5 @@ module.exports = {
 
     // https://github.com/korenskoy/eslint-plugin-teactn
     "teactn/prefer-separate-component-file": "off",
-
-    // Teact feature
-    "react/style-prop-object": "off",
   },
 };
