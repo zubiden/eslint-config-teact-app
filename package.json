@@ -16,23 +16,23 @@
     "eslint": ">=8"
   },
   "dependencies": {
-    "@babel/core": "^7.23.3",
-    "@babel/eslint-parser": "^7.23.3",
-    "@rushstack/eslint-patch": "^1.6.0",
-    "@typescript-eslint/eslint-plugin": "^6.12.0",
-    "@typescript-eslint/parser": "^6.12.0",
+    "@babel/core": "^7.24.5",
+    "@babel/eslint-parser": "^7.24.5",
+    "@rushstack/eslint-patch": "^1.10.2",
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
     "babel-preset-react-app": "^10.0.1",
     "confusing-browser-globals": "^1.0.11",
     "eslint-plugin-flowtype": "^8.0.3",
-    "eslint-plugin-import": "^2.29.0",
-    "eslint-plugin-jest": "^27.6.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jest": "^28.5.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-teactn": "git+https://github.com/korenskoy/eslint-plugin-teactn#c2c39dd005d58c07c24c4361de804dce1c6261b5",
-    "eslint-plugin-testing-library": "^6.2.0"
+    "eslint-plugin-testing-library": "^6.2.2"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
   }
 }
